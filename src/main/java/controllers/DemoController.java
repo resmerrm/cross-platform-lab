@@ -46,4 +46,4 @@ public class DemoController {
         //iteration
         model.addAttribute("languages", List.of("Java", "Kotlin", "Groovy"));
         return "index";
-    }
+    } //
